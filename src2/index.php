@@ -1,0 +1,1 @@
+<?php echo "Server 2 Says Hi"; ?>
